@@ -3,4 +3,8 @@ Task Manager Cloud Lab - Aplicación web para gestión de tareas con GitHub y de
 
 ## Integrante
 
+
+Atahua Huauya Carlos
+De La Cruz Cusipuma Ricardo Bryan
+Diaz Vilca Connery Taythiano
 Marco Martinez
